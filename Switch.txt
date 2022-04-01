@@ -8,5 +8,6 @@ food = "Pad Thai";
 break;
 case 2:
 food = "Tom Yum soup"
+break;
 }
 Console.WriteLine("Random recommendation: " + food + ".");

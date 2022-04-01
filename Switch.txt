@@ -3,5 +3,10 @@ Switch (i)
 case 0:
 food = "empanada";
 break;
+case 1:
+food = "Pad Thai";
+break;
+case 2:
+food = "Tom Yum soup"
 }
 Console.WriteLine("Random recommendation: " + food + ".");

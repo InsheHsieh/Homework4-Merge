@@ -4,3 +4,4 @@ case 0:
 food = "empanada";
 break;
 }
+Console.WriteLine("Random recommendation: " + food + ".");
